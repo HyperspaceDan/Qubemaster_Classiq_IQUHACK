@@ -3,7 +3,7 @@ This repository contains the solution (an attempt) for the Classiq challenge at 
 
 # Our Approach
 
-Our approach to the Classiq Challenge at the MIT iQuHack Hackathon 2025 involves preparing a Gaussian state over a specified domain using the Classiq SDK. The solution is implemented in the Jupyter notebook [`classiq_iQuHack_2025_final.ipynb`](QubeMaster.ipynb). Here is a detailed description of our approach and the code we developed:
+Our approach to the Classiq Challenge at the MIT iQuHack Hackathon 2025 involves preparing a Gaussian state over a specified domain using the Classiq SDK. The solution is implemented in the Jupyter notebook [`classiq_iQuHack_2025_final.ipynb`](QubMaster.ipynb). Here is a detailed description of our approach and the code we developed:
 
 ## Gaussian State Preparation
 
